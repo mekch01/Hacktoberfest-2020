@@ -6,7 +6,7 @@ If you want to learn by contributing to open source,Here is the reporisotry to c
 
 Who can Contribute:
 
-Open to everyone.But dont Spam😠
+Open to Beginners.But dont Spam😠
 
 Advantage of Contributing to the repository:
 
