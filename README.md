@@ -22,7 +22,7 @@ Learn to Review Other's Code.
 
 Learn How to Contribute in Open Source.
 
-###Here is the website link and some guidlines to contribute:
+Here is the website link and some guidlines to contribute:
 
 [Hacktoberfest2020](https://hacktoberfest.digitalocean.com/)
 
