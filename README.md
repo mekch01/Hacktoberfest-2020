@@ -2,7 +2,7 @@
 
 Hey guys!👋
 
-If you want to learn by contributing to open source,Here is the reporisotry to contribute to Hacktoberfest2020.😎
+If you want to learn by contributing to open source,Here is the repository to contribute to Hacktoberfest2020.😎
 
 Who can Contribute:
 
